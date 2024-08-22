@@ -1,0 +1,1 @@
+const removeDuplicate = elements => [...new Set(elements)];
